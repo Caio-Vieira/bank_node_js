@@ -20,4 +20,10 @@ checking if there is a profile with the same Name, Cpf and Account.
 <br><br>
 
 ![dados_existentes](https://user-images.githubusercontent.com/129814574/233512497-3702e2fc-e6a2-4135-9bd3-69d978229faf.png)
+<br><br>
+
+<h2> POST method Check for incomplete data.
+<br><br>
+
+![dados_imcompletos](https://user-images.githubusercontent.com/129814574/233513199-bab47be5-36de-43ac-8173-723b9393d6be.png)
   
