@@ -9,3 +9,9 @@ checking if there is a profile with the same Name, Cpf and Account.
 <h2> And it is possible to bring the list of users.
 <h2> Methods used.
 <h2> GET/POST
+<br></br>
+<h2> Get method returning list of users.
+<br><br>
+
+
+![get_usuarios](https://user-images.githubusercontent.com/129814574/233511993-e151bd01-4a2b-4dbf-9a60-d2291394d5fa.png)
