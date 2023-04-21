@@ -26,4 +26,10 @@ checking if there is a profile with the same Name, Cpf and Account.
 <br><br>
 
 ![dados_imcompletos](https://user-images.githubusercontent.com/129814574/233513199-bab47be5-36de-43ac-8173-723b9393d6be.png)
+<br><br>
+
+<h2> POST method inserting new user.
+<br><br>
+
+![cadastrado_sucesso](https://user-images.githubusercontent.com/129814574/233513766-6f385b54-a716-48ab-a155-9a492ed587bc.png)
   
